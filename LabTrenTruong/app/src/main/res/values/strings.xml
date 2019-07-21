@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LabTrenTruong</string>
+    <string name="category_usefulinfo">Listview</string>
+    <string name="category_places">Gridview</string>
+    <string name="category_food">Recycleview</string>
+
+</resources>
