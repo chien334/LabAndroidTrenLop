@@ -1,4 +1,4 @@
-package com.example.labtrentruong.gridview;
+package com.example.labtrentruong.Lab2_3.gridview;
 
 import android.content.Context;
 import android.view.LayoutInflater;

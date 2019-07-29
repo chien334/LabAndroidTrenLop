@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Tinh_Trang_May">
+        <item>New 100%</item>
+        <item>LikeNew</item>
+        <item>New 99%</item>
+        <item>Cũ 98%</item>
+        <item>Cũ 95%</item>
+        <item>Cũ 90%</item>
+    </string-array>
+    <string-array name="lai_thang">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+    </string-array>
+    <string-array name="Adress">
+        <item>Bình Định</item>
+        <item>Hà Nội</item>
+        <item>Cao Bằng</item>
+        <item>Lạng Sơn</item>
+        <item>TP.HCM</item>
+        <item>Bắc Cạn</item>
+        <item>Quảng Nam</item>
+        <item>Đà Nẳng</item>
+        <item>Sơn La</item>
+        <item>Lai Châu</item>
+        <item>Phú Yên</item>
+        <item>Cần Thơ</item>
+    </string-array>
+</resources>

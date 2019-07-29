@@ -1,4 +1,4 @@
-package com.example.labtrentruong.recycleview;
+package com.example.labtrentruong.Lab2_3.recycleview;
 
 import android.content.Context;
 import android.support.annotation.NonNull;

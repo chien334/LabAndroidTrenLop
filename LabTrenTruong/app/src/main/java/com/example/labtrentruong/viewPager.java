@@ -5,9 +5,9 @@ import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentPagerAdapter;
 
-import com.example.labtrentruong.gridview.grid_fragment;
-import com.example.labtrentruong.listview.list_fragment;
-import com.example.labtrentruong.recycleview.recycle_fragment;
+import com.example.labtrentruong.Lab2_3.gridview.grid_fragment;
+import com.example.labtrentruong.Lab2_3.listview.list_fragment;
+import com.example.labtrentruong.Lab2_3.recycleview.recycle_fragment;
 
 public class viewPager extends FragmentPagerAdapter {
 

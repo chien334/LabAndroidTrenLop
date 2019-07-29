@@ -1,4 +1,4 @@
-package com.example.labtrentruong.listview;
+package com.example.labtrentruong.Lab2_3.listview;
 
 import android.content.Context;
 import android.view.LayoutInflater;
@@ -10,7 +10,6 @@ import android.widget.TextView;
 
 import com.example.labtrentruong.Models.DongVat;
 import com.example.labtrentruong.R;
-import com.example.labtrentruong.gridview.itemgridview;
 
 import java.util.ArrayList;
 
@@ -38,7 +37,7 @@ public class ListAdapter extends BaseAdapter {
         return 0;
     }
 
-    private class   ViewHolder{
+    public class   ViewHolder{
         TextView txtname;
         ImageView imgHinhAnh;
 
